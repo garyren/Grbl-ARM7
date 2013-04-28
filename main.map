@@ -1,0 +1,1661 @@
+Archive member included because of file (symbol)
+
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(memset.o)
+                              main.o (memset)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_ceil.o)
+                              limits.o (ceil)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o)
+                              motion_control.o (cos)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_floor.o)
+                              motion_control.o (floor)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lround.o)
+                              limits.o (lround)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_round.o)
+                              settings.o (round)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_sin.o)
+                              motion_control.o (sin)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_trunc.o)
+                              gcode.o (trunc)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+                              motion_control.o (atan2)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+                              gcode.o (hypot)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+                              gcode.o (sqrt)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o) (__ieee754_atan2)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o) (__ieee754_hypot)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o) (__ieee754_rem_pio2)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_sqrt.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o) (__ieee754_sqrt)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_cos.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o) (__kernel_cos)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o) (__kernel_rem_pio2)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_sin.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o) (__kernel_sin)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o) (atan)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_fabs.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o) (fabs)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_finite.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o) (finite)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_isnan.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o) (isnan)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lib_ver.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o) (__fdlib_version)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_matherr.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o) (matherr)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_scalbn.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o) (scalbn)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_copysign.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_scalbn.o) (copysign)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(errno.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o) (__errno)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(impure.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(errno.o) (_impure_ptr)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+                              limits.o (__udivsi3)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o) (__divsi3)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+                              print.o (__umodsi3)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+                              serial.o (__modsi3)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o) (__div0)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+                              motion_control.o (__subdf3)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+                              gcode.o (__muldf3)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+                              planner.o (__gtdf2)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixdfsi.o)
+                              planner.o (__fixdfsi)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixunsdfsi.o)
+                              gcode.o (__fixunsdfsi)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_truncdfsf2.o)
+                              gcode.o (__truncdfsf2)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+                              gcode.o (__subsf3)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+                              gcode.o (__mulsf3)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+                              planner.o (__gtsf2)
+c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixsfsi.o)
+                              gcode.o (__fixsfsi)
+
+Allocating common symbols
+Common symbol       size              file
+
+settings            0x40              settings.o
+sys                 0x14              main.o
+rx_buffer           0xfa              serial.o
+tx_buffer           0xfa              serial.o
+gc                  0x38              gcode.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x00000000         0x00020000         xr
+RAM              0x40000000         0x00010000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD main.o
+LOAD armVIC.o
+LOAD coolant_control.o
+LOAD eeprom.o
+LOAD gcode.o
+LOAD limits.o
+LOAD motion_control.o
+LOAD nuts_bolts.o
+LOAD planner.o
+LOAD print.o
+LOAD protocol.o
+LOAD report.o
+LOAD serial.o
+LOAD settings.o
+LOAD spindle_control.o
+LOAD stepper.o
+LOAD syscalls.o
+LOAD crt0.o
+LOAD c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a
+LOAD c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a
+LOAD c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a
+LOAD c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a
+START GROUP
+LOAD c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a
+LOAD c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libg.a
+LOAD c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a
+END GROUP
+                0x00000400                STACK_SIZE = 0x400
+
+.text           0x00000000     0xa878
+ *crt0.o(.text)
+ .text          0x00000000      0x10c crt0.o
+                0x000000ec                reset
+                0x00000000                _boot
+                0x00000050                _mainCRTStartup
+                0x000000ec                abort
+                0x00000050                _start
+                0x000000ec                _reset
+                0x000000ec                exit
+                0x00000050                start
+ *(.text)
+ .text          0x0000010c      0x188 main.o
+                0x0000010c                main
+ .text          0x00000294       0x78 armVIC.o
+                0x00000294                restoreIRQ
+                0x000002dc                enableFIQ
+                0x000002cc                disableFIQ
+                0x000002fc                enableIRQ
+                0x000002b0                restoreFIQ
+                0x000002ec                disableIRQ
+ .text          0x0000030c        0xc coolant_control.o
+                0x00000314                coolant_init
+                0x0000030c                coolant_stop
+                0x00000310                coolant_run
+ .text          0x00000318      0x4f8 eeprom.o
+                0x00000480                i2cRead
+                0x000007dc                eeprom_put_char
+                0x0000072c                memcpy_to_eeprom_with_checksum
+                0x000005e8                memcpy_from_eeprom_with_checksum
+                0x0000067c                eeprom_get_char
+                0x000006a8                i2cWrite
+ .text          0x00000810     0x1158 gcode.o
+                0x00000954                gc_execute_line
+                0x00000810                gc_set_current_position
+                0x000008ec                gc_init
+ .text          0x00001968      0x44c limits.o
+                0x00001968                limits_init
+                0x00001ce8                limits_go_home
+ .text          0x00001db4      0x75c motion_control.o
+                0x00001f44                mc_go_home
+                0x00001db4                mc_reset
+                0x00001eac                mc_line
+                0x00001e04                mc_dwell
+                0x00002030                mc_arc
+ .text          0x00002510      0x2c8 nuts_bolts.o
+                0x00002510                _delay_ms
+                0x000025a0                read_float
+                0x0000254c                _delay_us
+                0x00002580                sys_sync_current_position
+                0x00002740                delay_us
+                0x00002574                delay_ms
+ .text          0x000027d8      0xcbc planner.o
+                0x00002828                plan_reset_buffer
+                0x000028c4                plan_set_current_position
+                0x0000289c                plan_check_full_buffer
+                0x00003458                plan_discard_current_block
+                0x00002868                plan_get_current_block
+                0x00002e54                plan_cycle_reinitialize
+                0x000033f8                plan_synchronize
+                0x00003438                plan_init
+                0x00002ec4                plan_buffer_line
+ .text          0x00003494      0x290 print.o
+                0x00003698                print_uint8_base2
+                0x000036fc                printString
+                0x00003494                printFloat
+                0x000035f4                printInteger
+ .text          0x00003724      0x6fc protocol.o
+                0x000039c4                protocol_execute_line
+                0x00003de8                protocol_init
+                0x00003cd8                protocol_process
+                0x0000396c                protocol_execute_startup
+                0x00003870                protocol_preprocess_line
+                0x00003748                protocol_execute_runtime
+ .text          0x00003e20      0xa9c report.o
+                0x00003e2c                report_init_message
+                0x00003e20                report_grbl_help
+                0x00004338                report_status_message
+                0x00004624                report_grbl_settings
+                0x00004864                report_alarm_message
+                0x0000446c                report_gcode_parameters
+                0x000040c4                report_startup_line
+                0x00003e38                report_feedback_message
+                0x00003ebc                report_realtime_status
+                0x00004108                report_gcode_modes
+ .text          0x000048bc      0x38c serial.o
+                0x00004998                serial_reset_read_buffer
+                0x00004b88                serial_write
+                0x000049b4                uart0ISR
+                0x000048bc                serial_init
+                0x00004948                serial_read
+ .text          0x00004c48      0x530 settings.o
+                0x00004f88                settings_reset
+                0x00005118                settings_store_startup_line
+                0x000050c0                settings_init
+                0x0000512c                settings_read_startup_line
+                0x00004c48                read_global_settings
+                0x00004cac                settings_store_global_setting
+                0x00005050                settings_write_coord_data
+                0x00005068                settings_read_coord_data
+                0x00004c84                write_global_settings
+ .text          0x00005178       0x64 spindle_control.o
+                0x00005190                spindle_stop
+                0x000051a8                spindle_init
+                0x00005178                spindle_run
+ .text          0x000051dc      0x680 stepper.o
+                0x000052f0                st_feed_hold
+                0x000054bc                timer1_ISR
+                0x00005314                st_cycle_reinitialize
+                0x0000537c                st_reset
+                0x000053b0                st_go_idle
+                0x0000541c                st_init
+                0x000051dc                st_wake_up
+                0x000052d0                st_cycle_start
+ .text          0x0000585c       0x2c syscalls.o
+                0x0000585c                _sbrk_r
+ .text          0x00005888       0x1c c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(memset.o)
+                0x00005888                memset
+ .text          0x000058a4      0x184 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_ceil.o)
+                0x000058a4                ceil
+ .text          0x00005a28       0xd4 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o)
+                0x00005a28                cos
+ .text          0x00005afc      0x18c c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_floor.o)
+                0x00005afc                floor
+ .text          0x00005c88       0xbc c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lround.o)
+                0x00005c88                lround
+ .text          0x00005d44       0xf8 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_round.o)
+                0x00005d44                round
+ .text          0x00005e3c       0xdc c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_sin.o)
+                0x00005e3c                sin
+ .text          0x00005f18       0xdc c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_trunc.o)
+                0x00005f18                trunc
+ .text          0x00005ff4      0x124 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+                0x00005ff4                atan2
+ .text          0x00006118      0x118 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+                0x00006118                hypot
+ .text          0x00006230      0x110 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+                0x00006230                sqrt
+ .text          0x00006340      0x274 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+                0x00006340                __ieee754_atan2
+ .text          0x000065b4      0x3f0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+                0x000065b4                __ieee754_hypot
+ .text          0x000069a4      0x644 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+                0x000069a4                __ieee754_rem_pio2
+ .text          0x00006fe8      0x230 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_sqrt.o)
+                0x00006fe8                __ieee754_sqrt
+ .text          0x00007218      0x384 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_cos.o)
+                0x00007218                __kernel_cos
+ .text          0x0000759c      0xaf8 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+                0x0000759c                __kernel_rem_pio2
+ .text          0x00008094      0x22c c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_sin.o)
+                0x00008094                __kernel_sin
+ .text          0x000082c0      0x4d8 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+                0x000082c0                atan
+ .text          0x00008798       0x18 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_fabs.o)
+                0x00008798                fabs
+ .text          0x000087b0       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_finite.o)
+                0x000087b0                finite
+ .text          0x000087c4       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_isnan.o)
+                0x000087c4                isnan
+ .text          0x000087e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lib_ver.o)
+ .text          0x000087e4        0x8 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_matherr.o)
+                0x000087e4                matherr
+ .text          0x000087ec      0x18c c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_scalbn.o)
+                0x000087ec                scalbn
+ .text          0x00008978       0x18 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_copysign.o)
+                0x00008978                copysign
+ .text          0x00008990       0x10 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(errno.o)
+                0x00008990                __errno
+ .text          0x000089a0        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(impure.o)
+ .text          0x000089a0      0x110 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+                0x000089a0                __udivsi3
+                0x000089a0                __aeabi_uidiv
+                0x00008a98                __aeabi_uidivmod
+ .text          0x00008ab0      0x140 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+                0x00008ab0                __aeabi_idiv
+                0x00008ab0                __divsi3
+                0x00008bd8                __aeabi_idivmod
+ .text          0x00008bf0       0xcc c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+                0x00008bf0                __umodsi3
+ .text          0x00008cbc       0xe4 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+                0x00008cbc                __modsi3
+ .text          0x00008da0        0x4 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+                0x00008da0                __aeabi_ldiv0
+                0x00008da0                __div0
+                0x00008da0                __aeabi_idiv0
+ .text          0x00008da4      0x400 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+                0x00009138                __floatdidf
+                0x000090b8                __floatsidf
+                0x00009090                __aeabi_ui2d
+                0x00008da4                __aeabi_drsub
+                0x000090e4                __extendsfdf2
+                0x00008db0                __adddf3
+                0x00009090                __floatunsidf
+                0x00008db0                __aeabi_dadd
+                0x00009124                __aeabi_ul2d
+                0x00008dac                __aeabi_dsub
+                0x00009124                __floatundidf
+                0x000090b8                __aeabi_i2d
+                0x00009138                __aeabi_l2d
+                0x000090e4                __aeabi_f2d
+                0x00008dac                __subdf3
+ .text          0x000091a4      0x470 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+                0x00009410                __aeabi_ddiv
+                0x000091a4                __aeabi_dmul
+                0x00009410                __divdf3
+                0x000091a4                __muldf3
+ .text          0x00009614      0x128 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+                0x00009700                __aeabi_dcmple
+                0x00009624                __cmpdf2
+                0x00009624                __eqdf2
+                0x00009614                __gtdf2
+                0x000096c4                __aeabi_cdcmple
+                0x000096a8                __aeabi_cdrcmple
+                0x0000961c                __ltdf2
+                0x000096ec                __aeabi_dcmplt
+                0x0000961c                __ledf2
+                0x00009728                __aeabi_dcmpgt
+                0x00009714                __aeabi_dcmpge
+                0x00009624                __nedf2
+                0x000096d8                __aeabi_dcmpeq
+                0x000096c4                __aeabi_cdcmpeq
+                0x00009614                __gedf2
+ .text          0x0000973c       0x5c c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixdfsi.o)
+                0x0000973c                __fixdfsi
+                0x0000973c                __aeabi_d2iz
+ .text          0x00009798       0x54 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixunsdfsi.o)
+                0x00009798                __fixunsdfsi
+                0x00009798                __aeabi_d2uiz
+ .text          0x000097ec       0xa0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_truncdfsf2.o)
+                0x000097ec                __aeabi_d2f
+                0x000097ec                __truncdfsf2
+ .text          0x0000988c      0x2ac c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+                0x00009898                __aeabi_fadd
+                0x00009894                __subsf3
+                0x00009a5c                __aeabi_i2f
+                0x00009894                __aeabi_fsub
+                0x00009a8c                __floatdisf
+                0x00009a5c                __floatsisf
+                0x00009a7c                __floatundisf
+                0x00009a54                __aeabi_ui2f
+                0x00009a8c                __aeabi_l2f
+                0x00009a7c                __aeabi_ul2f
+                0x0000988c                __aeabi_frsub
+                0x00009a54                __floatunsisf
+                0x00009898                __addsf3
+ .text          0x00009b38      0x2f8 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+                0x00009cd0                __divsf3
+                0x00009cd0                __aeabi_fdiv
+                0x00009b38                __mulsf3
+                0x00009b38                __aeabi_fmul
+ .text          0x00009e30       0xf8 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+                0x00009f14                __aeabi_fcmpgt
+                0x00009e38                __lesf2
+                0x00009e40                __nesf2
+                0x00009f00                __aeabi_fcmpge
+                0x00009e30                __gtsf2
+                0x00009eec                __aeabi_fcmple
+                0x00009e40                __eqsf2
+                0x00009e40                __cmpsf2
+                0x00009e38                __ltsf2
+                0x00009eb0                __aeabi_cfcmple
+                0x00009e30                __gesf2
+                0x00009ec4                __aeabi_fcmpeq
+                0x00009ea0                __aeabi_cfrcmple
+                0x00009ed8                __aeabi_fcmplt
+                0x00009eb0                __aeabi_cfcmpeq
+ .text          0x00009f28       0x5c c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixsfsi.o)
+                0x00009f28                __fixsfsi
+                0x00009f28                __aeabi_f2iz
+ *(.rodata)
+ .rodata        0x00009f84      0x188 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+ .rodata        0x0000a10c       0x50 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+ .rodata        0x0000a15c       0x40 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+ .rodata        0x0000a19c        0x4 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lib_ver.o)
+                0x0000a19c                __fdlib_version
+ .rodata        0x0000a1a0        0x4 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(impure.o)
+                0x0000a1a0                _global_impure_ptr
+ *(.rodata*)
+ .rodata.str1.4
+                0x0000a1a4      0x6b6 report.o
+                                0x6c0 (size before relaxing)
+ *fill*         0x0000a85a        0x2 00
+ .rodata.str1.4
+                0x0000a85c        0x6 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+                                  0x8 (size before relaxing)
+ *fill*         0x0000a862        0x2 00
+ .rodata.str1.4
+                0x0000a864        0x6 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+                                  0x8 (size before relaxing)
+ *fill*         0x0000a86a        0x2 00
+ .rodata.str1.4
+                0x0000a86c        0x5 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+                                  0x8 (size before relaxing)
+ *fill*         0x0000a871        0x3 00
+ .rodata.str1.4
+                0x0000a874        0x4 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(impure.o)
+ *(.glue_7)
+ .glue_7        0x0000a878        0x0 main.o
+ .glue_7        0x0000a878        0x0 armVIC.o
+ .glue_7        0x0000a878        0x0 coolant_control.o
+ .glue_7        0x0000a878        0x0 eeprom.o
+ .glue_7        0x0000a878        0x0 gcode.o
+ .glue_7        0x0000a878        0x0 limits.o
+ .glue_7        0x0000a878        0x0 motion_control.o
+ .glue_7        0x0000a878        0x0 nuts_bolts.o
+ .glue_7        0x0000a878        0x0 planner.o
+ .glue_7        0x0000a878        0x0 print.o
+ .glue_7        0x0000a878        0x0 protocol.o
+ .glue_7        0x0000a878        0x0 report.o
+ .glue_7        0x0000a878        0x0 serial.o
+ .glue_7        0x0000a878        0x0 settings.o
+ .glue_7        0x0000a878        0x0 spindle_control.o
+ .glue_7        0x0000a878        0x0 stepper.o
+ .glue_7        0x0000a878        0x0 syscalls.o
+ .glue_7        0x0000a878        0x0 crt0.o
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(memset.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_ceil.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_floor.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lround.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_round.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_sin.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_trunc.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_sqrt.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_cos.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_sin.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_fabs.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_finite.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_isnan.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lib_ver.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_matherr.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_scalbn.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_copysign.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(errno.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(impure.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixdfsi.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixunsdfsi.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_truncdfsf2.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+ .glue_7        0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixsfsi.o)
+ *(.glue_7t)
+ .glue_7t       0x0000a878        0x0 main.o
+ .glue_7t       0x0000a878        0x0 armVIC.o
+ .glue_7t       0x0000a878        0x0 coolant_control.o
+ .glue_7t       0x0000a878        0x0 eeprom.o
+ .glue_7t       0x0000a878        0x0 gcode.o
+ .glue_7t       0x0000a878        0x0 limits.o
+ .glue_7t       0x0000a878        0x0 motion_control.o
+ .glue_7t       0x0000a878        0x0 nuts_bolts.o
+ .glue_7t       0x0000a878        0x0 planner.o
+ .glue_7t       0x0000a878        0x0 print.o
+ .glue_7t       0x0000a878        0x0 protocol.o
+ .glue_7t       0x0000a878        0x0 report.o
+ .glue_7t       0x0000a878        0x0 serial.o
+ .glue_7t       0x0000a878        0x0 settings.o
+ .glue_7t       0x0000a878        0x0 spindle_control.o
+ .glue_7t       0x0000a878        0x0 stepper.o
+ .glue_7t       0x0000a878        0x0 syscalls.o
+ .glue_7t       0x0000a878        0x0 crt0.o
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(memset.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_ceil.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_floor.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lround.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_round.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_sin.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_trunc.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_sqrt.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_cos.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_sin.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_fabs.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_finite.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_isnan.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lib_ver.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_matherr.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_scalbn.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_copysign.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(errno.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(impure.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixdfsi.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixunsdfsi.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_truncdfsf2.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+ .glue_7t       0x0000a878        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixsfsi.o)
+                0x0000a878                . = ALIGN (0x4)
+                0x0000a878                _etext = .
+                0x0000a878                PROVIDE (etext, .)
+
+.data           0x40000000      0x404 load address 0x0000a878
+                0x40000000                _data = .
+ *(.data)
+ .data          0x40000000        0x0 main.o
+ .data          0x40000000        0x0 armVIC.o
+ .data          0x40000000        0x0 coolant_control.o
+ .data          0x40000000        0x0 eeprom.o
+ .data          0x40000000        0x0 gcode.o
+ .data          0x40000000        0x0 limits.o
+ .data          0x40000000        0x0 motion_control.o
+ .data          0x40000000        0x0 nuts_bolts.o
+ .data          0x40000000        0x0 planner.o
+ .data          0x40000000        0x0 print.o
+ .data          0x40000000        0x0 protocol.o
+ .data          0x40000000        0x0 report.o
+ .data          0x40000000        0x0 serial.o
+ .data          0x40000000        0x0 settings.o
+ .data          0x40000000        0x0 spindle_control.o
+ .data          0x40000000        0x0 stepper.o
+ .data          0x40000000        0x0 syscalls.o
+ .data          0x40000000        0x0 crt0.o
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(memset.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_ceil.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_floor.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lround.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_round.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_sin.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_trunc.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_sqrt.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_cos.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_sin.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_fabs.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_finite.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_isnan.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lib_ver.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_matherr.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_scalbn.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_copysign.o)
+ .data          0x40000000        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(errno.o)
+ .data          0x40000000      0x404 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(impure.o)
+                0x40000000                _impure_ptr
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixdfsi.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixunsdfsi.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_truncdfsf2.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+ .data          0x40000404        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixsfsi.o)
+                0x40000404                . = ALIGN (0x4)
+                0x40000404                _edata = .
+                0x40000404                PROVIDE (edata, .)
+
+.bss            0x40000404      0x860
+                0x40000404                __bss_start = .
+                0x40000404                __bss_start__ = .
+ *(.bss)
+ .bss           0x40000404        0x0 main.o
+ .bss           0x40000404        0x0 armVIC.o
+ .bss           0x40000404        0x0 coolant_control.o
+ .bss           0x40000404        0x0 eeprom.o
+ .bss           0x40000404        0x0 gcode.o
+ .bss           0x40000404        0x0 limits.o
+ .bss           0x40000404        0x0 motion_control.o
+ .bss           0x40000404        0x0 nuts_bolts.o
+ .bss           0x40000404      0x4a0 planner.o
+ .bss           0x400008a4        0x0 print.o
+ .bss           0x400008a4      0x108 protocol.o
+ .bss           0x400009ac        0x0 report.o
+ .bss           0x400009ac        0x5 serial.o
+                0x400009ac                rx_buffer_head
+                0x400009ad                rx_buffer_tail
+                0x400009ae                tx_buffer_head
+                0x400009af                tx_buffer_tail
+ .bss           0x400009b1        0x0 settings.o
+ .bss           0x400009b1        0x1 spindle_control.o
+ *fill*         0x400009b2        0x2 00
+ .bss           0x400009b4       0x2c stepper.o
+ .bss           0x400009e0        0x4 syscalls.o
+ .bss           0x400009e4        0x0 crt0.o
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(memset.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_ceil.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_floor.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lround.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_round.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_sin.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_trunc.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_sqrt.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_cos.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_sin.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_fabs.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_finite.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_isnan.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lib_ver.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_matherr.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_scalbn.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_copysign.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(errno.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(impure.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixdfsi.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixunsdfsi.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_truncdfsf2.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+ .bss           0x400009e4        0x0 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixsfsi.o)
+ *(COMMON)
+ COMMON         0x400009e4       0x14 main.o
+                0x400009e4                sys
+ COMMON         0x400009f8       0x38 gcode.o
+                0x400009f8                gc
+ COMMON         0x40000a30      0x1f4 serial.o
+                0x40000a30                rx_buffer
+                0x40000b2a                tx_buffer
+ COMMON         0x40000c24       0x40 settings.o
+                0x40000c24                settings
+                0x40000c64                . = ALIGN (0x4)
+                0x40000c64                . = ALIGN (0x4)
+                0x40000c64                __bss_end__ = .
+                0x40000c64                PROVIDE (__bss_end, .)
+
+.stack          0x40000d00      0x400
+                0x40001100                . = (. + STACK_SIZE)
+ *fill*         0x40000d00      0x400 00
+                0x40001100                PROVIDE (_stack, .)
+                0x40001100                _end = .
+                0x40001100                PROVIDE (end, .)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x4bf
+ *(.comment)
+ .comment       0x00000000       0x1b main.o
+ .comment       0x0000001b       0x1b armVIC.o
+ .comment       0x00000036       0x1b coolant_control.o
+ .comment       0x00000051       0x1b eeprom.o
+ .comment       0x0000006c       0x1b gcode.o
+ .comment       0x00000087       0x1b limits.o
+ .comment       0x000000a2       0x1b motion_control.o
+ .comment       0x000000bd       0x1b nuts_bolts.o
+ .comment       0x000000d8       0x1b planner.o
+ .comment       0x000000f3       0x1b print.o
+ .comment       0x0000010e       0x1b protocol.o
+ .comment       0x00000129       0x1b report.o
+ .comment       0x00000144       0x1b serial.o
+ .comment       0x0000015f       0x1b settings.o
+ .comment       0x0000017a       0x1b spindle_control.o
+ .comment       0x00000195       0x1b stepper.o
+ .comment       0x000001b0       0x1b syscalls.o
+ .comment       0x000001cb       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(memset.o)
+ .comment       0x000001e6       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_ceil.o)
+ .comment       0x00000201       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o)
+ .comment       0x0000021c       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_floor.o)
+ .comment       0x00000237       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lround.o)
+ .comment       0x00000252       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_round.o)
+ .comment       0x0000026d       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_sin.o)
+ .comment       0x00000288       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_trunc.o)
+ .comment       0x000002a3       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+ .comment       0x000002be       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+ .comment       0x000002d9       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+ .comment       0x000002f4       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+ .comment       0x0000030f       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+ .comment       0x0000032a       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+ .comment       0x00000345       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_sqrt.o)
+ .comment       0x00000360       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_cos.o)
+ .comment       0x0000037b       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+ .comment       0x00000396       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_sin.o)
+ .comment       0x000003b1       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+ .comment       0x000003cc       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_fabs.o)
+ .comment       0x000003e7       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_finite.o)
+ .comment       0x00000402       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_isnan.o)
+ .comment       0x0000041d       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lib_ver.o)
+ .comment       0x00000438       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_matherr.o)
+ .comment       0x00000453       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_scalbn.o)
+ .comment       0x0000046e       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_copysign.o)
+ .comment       0x00000489       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(errno.o)
+ .comment       0x000004a4       0x1b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(impure.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x420
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x20 armVIC.o
+ .debug_aranges
+                0x00000040       0x20 coolant_control.o
+ .debug_aranges
+                0x00000060       0x20 eeprom.o
+ .debug_aranges
+                0x00000080       0x20 gcode.o
+ .debug_aranges
+                0x000000a0       0x20 limits.o
+ .debug_aranges
+                0x000000c0       0x20 motion_control.o
+ .debug_aranges
+                0x000000e0       0x20 nuts_bolts.o
+ .debug_aranges
+                0x00000100       0x20 planner.o
+ .debug_aranges
+                0x00000120       0x20 print.o
+ .debug_aranges
+                0x00000140       0x20 protocol.o
+ .debug_aranges
+                0x00000160       0x20 report.o
+ .debug_aranges
+                0x00000180       0x20 serial.o
+ .debug_aranges
+                0x000001a0       0x20 settings.o
+ .debug_aranges
+                0x000001c0       0x20 spindle_control.o
+ .debug_aranges
+                0x000001e0       0x20 stepper.o
+ .debug_aranges
+                0x00000200       0x20 syscalls.o
+ .debug_aranges
+                0x00000220       0x20 crt0.o
+ .debug_aranges
+                0x00000240       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x00000260       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x00000280       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+ .debug_aranges
+                0x000002a0       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+ .debug_aranges
+                0x000002c0       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x000002e0       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+ .debug_aranges
+                0x00000300       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+ .debug_aranges
+                0x00000320       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+ .debug_aranges
+                0x00000340       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixdfsi.o)
+ .debug_aranges
+                0x00000360       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixunsdfsi.o)
+ .debug_aranges
+                0x00000380       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_truncdfsf2.o)
+ .debug_aranges
+                0x000003a0       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+ .debug_aranges
+                0x000003c0       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+ .debug_aranges
+                0x000003e0       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+ .debug_aranges
+                0x00000400       0x20 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixsfsi.o)
+
+.debug_pubnames
+                0x00000000      0x89b
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 main.o
+ .debug_pubnames
+                0x00000023       0x6a armVIC.o
+ .debug_pubnames
+                0x0000008d       0x44 coolant_control.o
+ .debug_pubnames
+                0x000000d1       0x9b eeprom.o
+ .debug_pubnames
+                0x0000016c       0x55 gcode.o
+ .debug_pubnames
+                0x000001c1       0x35 limits.o
+ .debug_pubnames
+                0x000001f6       0x52 motion_control.o
+ .debug_pubnames
+                0x00000248       0x75 nuts_bolts.o
+ .debug_pubnames
+                0x000002bd       0xef planner.o
+ .debug_pubnames
+                0x000003ac       0x58 print.o
+ .debug_pubnames
+                0x00000404       0xaa protocol.o
+ .debug_pubnames
+                0x000004ae      0x10d report.o
+ .debug_pubnames
+                0x000005bb       0xd5 serial.o
+ .debug_pubnames
+                0x00000690      0x113 settings.o
+ .debug_pubnames
+                0x000007a3       0x44 spindle_control.o
+ .debug_pubnames
+                0x000007e7       0x96 stepper.o
+ .debug_pubnames
+                0x0000087d       0x1e syscalls.o
+
+.debug_info     0x00000000     0x5262
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x284 main.o
+ .debug_info    0x00000284      0x303 armVIC.o
+ .debug_info    0x00000587       0xe0 coolant_control.o
+ .debug_info    0x00000667      0x3c8 eeprom.o
+ .debug_info    0x00000a2f      0x7d1 gcode.o
+ .debug_info    0x00001200      0x3c5 limits.o
+ .debug_info    0x000015c5      0x4f5 motion_control.o
+ .debug_info    0x00001aba      0x38b nuts_bolts.o
+ .debug_info    0x00001e45      0xa07 planner.o
+ .debug_info    0x0000284c      0x323 print.o
+ .debug_info    0x00002b6f      0x50f protocol.o
+ .debug_info    0x0000307e      0x4d3 report.o
+ .debug_info    0x00003551      0x295 serial.o
+ .debug_info    0x000037e6      0x3b4 settings.o
+ .debug_info    0x00003b9a      0x101 spindle_control.o
+ .debug_info    0x00003c9b      0x545 stepper.o
+ .debug_info    0x000041e0      0x963 syscalls.o
+ .debug_info    0x00004b43       0x5d crt0.o
+ .debug_info    0x00004ba0       0x74 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+ .debug_info    0x00004c14       0x74 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+ .debug_info    0x00004c88       0x74 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+ .debug_info    0x00004cfc       0x74 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+ .debug_info    0x00004d70       0x74 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+ .debug_info    0x00004de4       0x73 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+ .debug_info    0x00004e57       0x73 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+ .debug_info    0x00004eca       0x73 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+ .debug_info    0x00004f3d       0x73 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixdfsi.o)
+ .debug_info    0x00004fb0       0x73 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixunsdfsi.o)
+ .debug_info    0x00005023       0x73 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_truncdfsf2.o)
+ .debug_info    0x00005096       0x73 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+ .debug_info    0x00005109       0x73 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+ .debug_info    0x0000517c       0x73 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+ .debug_info    0x000051ef       0x73 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixsfsi.o)
+
+.debug_abbrev   0x00000000     0x18bd
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xd0 main.o
+ .debug_abbrev  0x000000d0       0xde armVIC.o
+ .debug_abbrev  0x000001ae       0x83 coolant_control.o
+ .debug_abbrev  0x00000231      0x197 eeprom.o
+ .debug_abbrev  0x000003c8      0x212 gcode.o
+ .debug_abbrev  0x000005da      0x118 limits.o
+ .debug_abbrev  0x000006f2      0x11b motion_control.o
+ .debug_abbrev  0x0000080d      0x1d7 nuts_bolts.o
+ .debug_abbrev  0x000009e4      0x2b0 planner.o
+ .debug_abbrev  0x00000c94      0x123 print.o
+ .debug_abbrev  0x00000db7      0x247 protocol.o
+ .debug_abbrev  0x00000ffe      0x163 report.o
+ .debug_abbrev  0x00001161      0x130 serial.o
+ .debug_abbrev  0x00001291      0x122 settings.o
+ .debug_abbrev  0x000013b3       0x8a spindle_control.o
+ .debug_abbrev  0x0000143d      0x19e stepper.o
+ .debug_abbrev  0x000015db      0x1a2 syscalls.o
+ .debug_abbrev  0x0000177d       0x14 crt0.o
+ .debug_abbrev  0x00001791       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x000017a5       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+ .debug_abbrev  0x000017b9       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+ .debug_abbrev  0x000017cd       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+ .debug_abbrev  0x000017e1       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x000017f5       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+ .debug_abbrev  0x00001809       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+ .debug_abbrev  0x0000181d       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+ .debug_abbrev  0x00001831       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixdfsi.o)
+ .debug_abbrev  0x00001845       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixunsdfsi.o)
+ .debug_abbrev  0x00001859       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_truncdfsf2.o)
+ .debug_abbrev  0x0000186d       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+ .debug_abbrev  0x00001881       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+ .debug_abbrev  0x00001895       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+ .debug_abbrev  0x000018a9       0x14 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixsfsi.o)
+
+.debug_line     0x00000000     0x1eb3
+ *(.debug_line)
+ .debug_line    0x00000000       0xab main.o
+ .debug_line    0x000000ab       0x5f armVIC.o
+ .debug_line    0x0000010a       0x47 coolant_control.o
+ .debug_line    0x00000151      0x127 eeprom.o
+ .debug_line    0x00000278      0x21e gcode.o
+ .debug_line    0x00000496      0x104 limits.o
+ .debug_line    0x0000059a      0x147 motion_control.o
+ .debug_line    0x000006e1       0xcd nuts_bolts.o
+ .debug_line    0x000007ae      0x250 planner.o
+ .debug_line    0x000009fe       0xad print.o
+ .debug_line    0x00000aab      0x14d protocol.o
+ .debug_line    0x00000bf8      0x172 report.o
+ .debug_line    0x00000d6a       0xca serial.o
+ .debug_line    0x00000e34       0xf0 settings.o
+ .debug_line    0x00000f24       0x5b spindle_control.o
+ .debug_line    0x00000f7f      0x195 stepper.o
+ .debug_line    0x00001114       0xe2 syscalls.o
+ .debug_line    0x000011f6       0x71 crt0.o
+ .debug_line    0x00001267       0x8c c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+ .debug_line    0x000012f3       0x98 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+ .debug_line    0x0000138b       0x75 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+ .debug_line    0x00001400       0x7b c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+ .debug_line    0x0000147b       0x60 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+ .debug_line    0x000014db      0x1eb c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+ .debug_line    0x000016c6      0x1fc c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+ .debug_line    0x000018c2       0xf2 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+ .debug_line    0x000019b4       0x75 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixdfsi.o)
+ .debug_line    0x00001a29       0x73 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixunsdfsi.o)
+ .debug_line    0x00001a9c       0x86 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_truncdfsf2.o)
+ .debug_line    0x00001b22      0x116 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+ .debug_line    0x00001c38      0x120 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+ .debug_line    0x00001d58       0xe6 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+ .debug_line    0x00001e3e       0x75 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixsfsi.o)
+
+.debug_frame    0x00000000      0xb5c
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x2c main.o
+ .debug_frame   0x0000002c       0x70 armVIC.o
+ .debug_frame   0x0000009c       0x40 coolant_control.o
+ .debug_frame   0x000000dc      0x110 eeprom.o
+ .debug_frame   0x000001ec       0x90 gcode.o
+ .debug_frame   0x0000027c       0x64 limits.o
+ .debug_frame   0x000002e0       0xb4 motion_control.o
+ .debug_frame   0x00000394       0x94 nuts_bolts.o
+ .debug_frame   0x00000428      0x174 planner.o
+ .debug_frame   0x0000059c       0x84 print.o
+ .debug_frame   0x00000620       0xcc protocol.o
+ .debug_frame   0x000006ec      0x108 report.o
+ .debug_frame   0x000007f4       0x8c serial.o
+ .debug_frame   0x00000880       0xe8 settings.o
+ .debug_frame   0x00000968       0x40 spindle_control.o
+ .debug_frame   0x000009a8       0xf4 stepper.o
+ .debug_frame   0x00000a9c       0x20 syscalls.o
+ .debug_frame   0x00000abc       0x28 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000ae4       0x28 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000b0c       0x28 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+ .debug_frame   0x00000b34       0x28 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+
+.debug_str      0x00000000     0x15a9
+ *(.debug_str)
+ .debug_str     0x00000000      0x204 main.o
+                                0x268 (size before relaxing)
+ .debug_str     0x00000204       0x6e armVIC.o
+                                0x13b (size before relaxing)
+ .debug_str     0x00000272       0x38 coolant_control.o
+                                0x122 (size before relaxing)
+ .debug_str     0x000002aa      0x116 eeprom.o
+                                0x201 (size before relaxing)
+ .debug_str     0x000003c0      0x1d8 gcode.o
+                                0x477 (size before relaxing)
+ .debug_str     0x00000598       0xf0 limits.o
+                                0x347 (size before relaxing)
+ .debug_str     0x00000688      0x12d motion_control.o
+                                0x3c9 (size before relaxing)
+ .debug_str     0x000007b5       0x6e nuts_bolts.o
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000823      0x416 planner.o
+                                0x6f4 (size before relaxing)
+ .debug_str     0x00000c39       0x5b print.o
+                                0x276 (size before relaxing)
+ .debug_str     0x00000c94      0x11e protocol.o
+                                0x3ad (size before relaxing)
+ .debug_str     0x00000db2      0x103 report.o
+                                0x451 (size before relaxing)
+ .debug_str     0x00000eb5       0xbb serial.o
+                                0x1f6 (size before relaxing)
+ .debug_str     0x00000f70       0xed settings.o
+                                0x340 (size before relaxing)
+ .debug_str     0x0000105d       0x4a spindle_control.o
+                                0x139 (size before relaxing)
+ .debug_str     0x000010a7      0x15c stepper.o
+                                0x4db (size before relaxing)
+ .debug_str     0x00001203      0x3a6 syscalls.o
+                                0x48c (size before relaxing)
+
+.debug_loc      0x00000000     0x2445
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x1f main.o
+ .debug_loc     0x0000001f       0x72 armVIC.o
+ .debug_loc     0x00000091      0x37f eeprom.o
+ .debug_loc     0x00000410      0x580 gcode.o
+ .debug_loc     0x00000990      0x144 limits.o
+ .debug_loc     0x00000ad4      0x442 motion_control.o
+ .debug_loc     0x00000f16      0x3de nuts_bolts.o
+ .debug_loc     0x000012f4      0x4aa planner.o
+ .debug_loc     0x0000179e      0x1e8 print.o
+ .debug_loc     0x00001986      0x365 protocol.o
+ .debug_loc     0x00001ceb      0x1ae report.o
+ .debug_loc     0x00001e99      0x101 serial.o
+ .debug_loc     0x00001f9a      0x363 settings.o
+ .debug_loc     0x000022fd      0x122 stepper.o
+ .debug_loc     0x0000241f       0x26 syscalls.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(main.elf elf32-littlearm)
+
+.debug_ranges   0x00000000      0x198
+ .debug_ranges  0x00000000       0x48 main.o
+ .debug_ranges  0x00000048       0x30 eeprom.o
+ .debug_ranges  0x00000078       0x28 gcode.o
+ .debug_ranges  0x000000a0       0x60 planner.o
+ .debug_ranges  0x00000100       0x40 print.o
+ .debug_ranges  0x00000140       0x18 protocol.o
+ .debug_ranges  0x00000158       0x20 serial.o
+ .debug_ranges  0x00000178       0x20 spindle_control.o
+
+Cross Reference Table
+
+Symbol                                            File
+__adddf3                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_scalbn.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_sin.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_cos.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_sqrt.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_trunc.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_round.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_floor.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_ceil.o)
+                                                  report.o
+                                                  motion_control.o
+                                                  limits.o
+__addsf3                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+                                                  report.o
+                                                  print.o
+                                                  planner.o
+                                                  motion_control.o
+                                                  gcode.o
+__aeabi_cdcmpeq                                   c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+__aeabi_cdcmple                                   c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+__aeabi_cdrcmple                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+__aeabi_cfcmpeq                                   c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+__aeabi_cfcmple                                   c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+__aeabi_cfrcmple                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+__aeabi_d2f                                       c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_truncdfsf2.o)
+__aeabi_d2iz                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixdfsi.o)
+__aeabi_d2uiz                                     c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixunsdfsi.o)
+__aeabi_dadd                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+__aeabi_dcmpeq                                    c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+__aeabi_dcmpge                                    c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+__aeabi_dcmpgt                                    c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+__aeabi_dcmple                                    c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+__aeabi_dcmplt                                    c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+__aeabi_ddiv                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+__aeabi_dmul                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+__aeabi_drsub                                     c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+__aeabi_dsub                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+__aeabi_f2d                                       c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+__aeabi_f2iz                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixsfsi.o)
+__aeabi_fadd                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+__aeabi_fcmpeq                                    c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+__aeabi_fcmpge                                    c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+__aeabi_fcmpgt                                    c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+__aeabi_fcmple                                    c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+__aeabi_fcmplt                                    c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+__aeabi_fdiv                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+__aeabi_fmul                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+__aeabi_frsub                                     c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+__aeabi_fsub                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+__aeabi_i2d                                       c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+__aeabi_i2f                                       c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+__aeabi_idiv                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+__aeabi_idiv0                                     c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+__aeabi_idivmod                                   c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+__aeabi_l2d                                       c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+__aeabi_l2f                                       c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+__aeabi_ldiv0                                     c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+__aeabi_ui2d                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+__aeabi_ui2f                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+__aeabi_uidiv                                     c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+__aeabi_uidivmod                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+__aeabi_ul2d                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+__aeabi_ul2f                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+__bss_end__                                       crt0.o
+__bss_start                                       crt0.o
+__cmpdf2                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+__cmpsf2                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+__div0                                            c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_dvmd_tls.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+__divdf3                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_sqrt.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+                                                  planner.o
+                                                  limits.o
+                                                  gcode.o
+__divsf3                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+                                                  report.o
+                                                  planner.o
+                                                  motion_control.o
+                                                  limits.o
+                                                  gcode.o
+__divsi3                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_divsi3.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+__eqdf2                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+__eqsf2                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+                                                  motion_control.o
+__errno                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(errno.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+__extendsfdf2                                     c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+                                                  settings.o
+                                                  report.o
+                                                  protocol.o
+                                                  planner.o
+                                                  nuts_bolts.o
+                                                  motion_control.o
+                                                  limits.o
+                                                  gcode.o
+__fdlib_version                                   c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lib_ver.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+__fixdfsi                                         c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixdfsi.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_sin.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_cos.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lround.o)
+                                                  planner.o
+__fixsfsi                                         c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixsfsi.o)
+                                                  protocol.o
+                                                  print.o
+                                                  gcode.o
+__fixunsdfsi                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_fixunsdfsi.o)
+                                                  settings.o
+                                                  protocol.o
+                                                  planner.o
+                                                  motion_control.o
+                                                  limits.o
+                                                  gcode.o
+__floatdidf                                       c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+__floatdisf                                       c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+__floatsidf                                       c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+                                                  planner.o
+                                                  limits.o
+__floatsisf                                       c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+                                                  report.o
+                                                  planner.o
+                                                  motion_control.o
+                                                  gcode.o
+__floatundidf                                     c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+__floatundisf                                     c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+__floatunsidf                                     c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+__floatunsisf                                     c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+                                                  nuts_bolts.o
+__gedf2                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+__gesf2                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+                                                  motion_control.o
+__gtdf2                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_floor.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_ceil.o)
+                                                  planner.o
+__gtsf2                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+                                                  planner.o
+__ieee754_atan2                                   c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+__ieee754_hypot                                   c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+__ieee754_rem_pio2                                c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_sin.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o)
+__ieee754_sqrt                                    c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_sqrt.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+__kernel_cos                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_cos.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_sin.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o)
+__kernel_rem_pio2                                 c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+__kernel_sin                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_sin.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_sin.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o)
+__ledf2                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+__lesf2                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+                                                  settings.o
+                                                  planner.o
+                                                  motion_control.o
+                                                  gcode.o
+__ltdf2                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+                                                  planner.o
+__ltsf2                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+                                                  settings.o
+                                                  print.o
+                                                  planner.o
+                                                  gcode.o
+__modsi3                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_modsi3.o)
+                                                  serial.o
+__muldf3                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivdf3.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_scalbn.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_sin.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_cos.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_sqrt.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+                                                  report.o
+                                                  planner.o
+                                                  nuts_bolts.o
+                                                  motion_control.o
+                                                  limits.o
+                                                  gcode.o
+__mulsf3                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_muldivsf3.o)
+                                                  settings.o
+                                                  print.o
+                                                  planner.o
+                                                  nuts_bolts.o
+                                                  motion_control.o
+                                                  limits.o
+                                                  gcode.o
+__nedf2                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpdf2.o)
+__nesf2                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_cmpsf2.o)
+                                                  settings.o
+                                                  planner.o
+                                                  nuts_bolts.o
+                                                  gcode.o
+__subdf3                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubdf3.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_sin.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_cos.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_sqrt.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_hypot.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_sin.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o)
+                                                  planner.o
+                                                  motion_control.o
+__subsf3                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_addsubsf3.o)
+                                                  report.o
+                                                  planner.o
+                                                  motion_control.o
+                                                  gcode.o
+__truncdfsf2                                      c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_truncdfsf2.o)
+                                                  report.o
+                                                  planner.o
+                                                  nuts_bolts.o
+                                                  motion_control.o
+                                                  limits.o
+                                                  gcode.o
+__udivsi3                                         c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_udivsi3.o)
+                                                  stepper.o
+                                                  print.o
+                                                  limits.o
+__umodsi3                                         c:/winarm/bin/../lib/gcc/arm-elf/4.1.1\libgcc.a(_umodsi3.o)
+                                                  serial.o
+                                                  print.o
+_boot                                             crt0.o
+_data                                             crt0.o
+_delay_ms                                         nuts_bolts.o
+_delay_us                                         nuts_bolts.o
+_edata                                            crt0.o
+_etext                                            crt0.o
+_global_impure_ptr                                c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(impure.o)
+_impure_ptr                                       c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(impure.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(errno.o)
+_mainCRTStartup                                   crt0.o
+_reset                                            crt0.o
+_sbrk_r                                           syscalls.o
+_stack                                            crt0.o
+_start                                            crt0.o
+abort                                             crt0.o
+atan                                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+atan2                                             c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+                                                  motion_control.o
+ceil                                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_ceil.o)
+                                                  planner.o
+                                                  limits.o
+coolant_init                                      coolant_control.o
+                                                  main.o
+coolant_run                                       coolant_control.o
+                                                  gcode.o
+coolant_stop                                      coolant_control.o
+                                                  motion_control.o
+copysign                                          c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_copysign.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_scalbn.o)
+cos                                               c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_cos.o)
+                                                  motion_control.o
+delay_ms                                          nuts_bolts.o
+                                                  stepper.o
+                                                  report.o
+                                                  motion_control.o
+                                                  limits.o
+                                                  eeprom.o
+delay_us                                          nuts_bolts.o
+                                                  limits.o
+                                                  eeprom.o
+disableFIQ                                        armVIC.o
+disableIRQ                                        armVIC.o
+                                                  serial.o
+eeprom_get_char                                   eeprom.o
+                                                  settings.o
+eeprom_put_char                                   eeprom.o
+                                                  settings.o
+enableFIQ                                         armVIC.o
+enableIRQ                                         armVIC.o
+                                                  main.o
+end                                               syscalls.o
+exit                                              crt0.o
+fabs                                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_fabs.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_atan.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_rem_pio2.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(e_atan2.o)
+finite                                            c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_finite.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+floor                                             c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_floor.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+                                                  planner.o
+                                                  motion_control.o
+gc                                                report.o
+                                                  gcode.o
+gc_execute_line                                   gcode.o
+                                                  protocol.o
+gc_init                                           gcode.o
+                                                  main.o
+gc_set_current_position                           gcode.o
+                                                  nuts_bolts.o
+hypot                                             c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+                                                  motion_control.o
+                                                  gcode.o
+i2cRead                                           eeprom.o
+i2cWrite                                          eeprom.o
+isnan                                             c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_isnan.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+limits_go_home                                    limits.o
+                                                  motion_control.o
+limits_init                                       limits.o
+                                                  settings.o
+                                                  main.o
+lround                                            c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_lround.o)
+                                                  planner.o
+                                                  limits.o
+main                                              main.o
+                                                  crt0.o
+matherr                                           c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_matherr.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_hypot.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_atan2.o)
+mc_arc                                            motion_control.o
+                                                  gcode.o
+mc_dwell                                          motion_control.o
+                                                  gcode.o
+mc_go_home                                        motion_control.o
+                                                  protocol.o
+mc_line                                           motion_control.o
+                                                  gcode.o
+mc_reset                                          motion_control.o
+                                                  serial.o
+                                                  protocol.o
+                                                  gcode.o
+memcpy_from_eeprom_with_checksum                  eeprom.o
+                                                  settings.o
+memcpy_to_eeprom_with_checksum                    eeprom.o
+                                                  settings.o
+memset                                            c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libc.a(memset.o)
+                                                  stepper.o
+                                                  settings.o
+                                                  planner.o
+                                                  motion_control.o
+                                                  limits.o
+                                                  gcode.o
+                                                  main.o
+plan_buffer_line                                  planner.o
+                                                  motion_control.o
+plan_check_full_buffer                            planner.o
+                                                  motion_control.o
+plan_cycle_reinitialize                           planner.o
+                                                  stepper.o
+plan_discard_current_block                        planner.o
+                                                  stepper.o
+plan_get_current_block                            planner.o
+                                                  stepper.o
+plan_init                                         planner.o
+                                                  main.o
+plan_reset_buffer                                 planner.o
+plan_set_current_position                         planner.o
+                                                  nuts_bolts.o
+plan_synchronize                                  planner.o
+                                                  motion_control.o
+                                                  gcode.o
+printFloat                                        print.o
+                                                  report.o
+printInteger                                      print.o
+                                                  report.o
+printString                                       print.o
+                                                  report.o
+                                                  protocol.o
+print_uint8_base2                                 print.o
+                                                  report.o
+protocol_execute_line                             protocol.o
+protocol_execute_runtime                          protocol.o
+                                                  planner.o
+                                                  motion_control.o
+                                                  main.o
+protocol_execute_startup                          protocol.o
+                                                  main.o
+protocol_init                                     protocol.o
+                                                  main.o
+protocol_preprocess_line                          protocol.o
+protocol_process                                  protocol.o
+                                                  main.o
+read_float                                        nuts_bolts.o
+                                                  protocol.o
+                                                  gcode.o
+read_global_settings                              settings.o
+report_alarm_message                              report.o
+                                                  protocol.o
+report_feedback_message                           report.o
+                                                  protocol.o
+                                                  main.o
+report_gcode_modes                                report.o
+                                                  protocol.o
+report_gcode_parameters                           report.o
+                                                  protocol.o
+report_grbl_help                                  report.o
+                                                  protocol.o
+report_grbl_settings                              report.o
+                                                  settings.o
+                                                  protocol.o
+report_init_message                               report.o
+                                                  protocol.o
+report_realtime_status                            report.o
+                                                  protocol.o
+report_startup_line                               report.o
+                                                  protocol.o
+report_status_message                             report.o
+                                                  settings.o
+                                                  protocol.o
+                                                  gcode.o
+reset                                             crt0.o
+                                                  main.o
+restoreFIQ                                        armVIC.o
+restoreIRQ                                        armVIC.o
+                                                  serial.o
+round                                             c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_round.o)
+                                                  settings.o
+rx_buffer                                         serial.o
+rx_buffer_head                                    serial.o
+rx_buffer_tail                                    serial.o
+scalbn                                            c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_scalbn.o)
+                                                  c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(k_rem_pio2.o)
+serial_init                                       serial.o
+                                                  main.o
+serial_read                                       serial.o
+                                                  protocol.o
+serial_reset_read_buffer                          serial.o
+                                                  main.o
+serial_write                                      serial.o
+                                                  print.o
+settings                                          stepper.o
+                                                  settings.o
+                                                  report.o
+                                                  protocol.o
+                                                  print.o
+                                                  planner.o
+                                                  motion_control.o
+                                                  limits.o
+                                                  gcode.o
+                                                  main.o
+settings_init                                     settings.o
+                                                  main.o
+settings_read_coord_data                          settings.o
+                                                  report.o
+                                                  gcode.o
+settings_read_startup_line                        settings.o
+                                                  protocol.o
+settings_reset                                    settings.o
+settings_store_global_setting                     settings.o
+                                                  protocol.o
+settings_store_startup_line                       settings.o
+                                                  protocol.o
+settings_write_coord_data                         settings.o
+                                                  gcode.o
+sin                                               c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_sin.o)
+                                                  motion_control.o
+spindle_init                                      spindle_control.o
+                                                  main.o
+spindle_run                                       spindle_control.o
+                                                  gcode.o
+spindle_stop                                      spindle_control.o
+                                                  motion_control.o
+sqrt                                              c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(w_sqrt.o)
+                                                  planner.o
+                                                  limits.o
+                                                  gcode.o
+st_cycle_reinitialize                             stepper.o
+                                                  protocol.o
+st_cycle_start                                    stepper.o
+                                                  protocol.o
+                                                  motion_control.o
+st_feed_hold                                      stepper.o
+                                                  protocol.o
+st_go_idle                                        stepper.o
+                                                  motion_control.o
+                                                  limits.o
+st_init                                           stepper.o
+                                                  main.o
+st_reset                                          stepper.o
+                                                  main.o
+st_wake_up                                        stepper.o
+                                                  limits.o
+start                                             crt0.o
+sys                                               stepper.o
+                                                  serial.o
+                                                  report.o
+                                                  protocol.o
+                                                  planner.o
+                                                  nuts_bolts.o
+                                                  motion_control.o
+                                                  limits.o
+                                                  gcode.o
+                                                  main.o
+sys_sync_current_position                         nuts_bolts.o
+                                                  motion_control.o
+                                                  main.o
+timer1_ISR                                        stepper.o
+trunc                                             c:/winarm/bin/../lib/gcc/arm-elf/4.1.1/../../../../arm-elf/lib\libm.a(s_trunc.o)
+                                                  settings.o
+                                                  protocol.o
+                                                  gcode.o
+tx_buffer                                         serial.o
+tx_buffer_head                                    serial.o
+tx_buffer_tail                                    serial.o
+uart0ISR                                          serial.o
+write_global_settings                             settings.o
